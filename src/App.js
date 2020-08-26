@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button } from '@material-ui/core';
 import cn from './App.module.scss';
-import './styles/global.scss';
+import 'src/styles/global.scss';
 
 function App() {
   return (
